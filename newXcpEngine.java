@@ -1,2 +1,0 @@
-public newXcpEngine extends Service {
-}
